@@ -1,5 +1,5 @@
 begin working to remove the ones already removed
-file 1: no
+file 1: yes
 file 2: no
 file 3: no
 file 4: no
