@@ -14,3 +14,4 @@ begin working to remove the ones already completed
 	file 9: yes
 	file 10: yes
 transfered all of them into prescreptid empires
+cleared the 3 others
