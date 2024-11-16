@@ -18,3 +18,4 @@ cleared the 3 others
 moved previous versions
 prepared for merge
 remove evolved
+remove vanilla
