@@ -1,5 +1,16 @@
 All empires are divided into subfolders, no other change
 moved in ones for removeing empires
-transfered all completed ones to the prescripted empires folder
 add in the files for older previous versions
 move said files to a seperate folder
+begin working to remove the ones already completed
+	file 1: yes
+	file 2: yes
+	file 3: yes
+	file 4: yes
+	file 5: yes
+	file 6: yes
+	file 7: yes
+	file 8: yes
+	file 9: yes
+	file 10: yes
+transfered all of them into prescreptid empires
