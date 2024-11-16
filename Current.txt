@@ -1,1 +1,2 @@
 All empires are divided into subfolders, no other change
+moved in ones for removeing empires
