@@ -3,7 +3,7 @@ file 1: yes
 file 2: yes
 file 3: yes
 file 4: yes
-file 5: no
+file 5: yes
 file 6: no
 file 7: no
 file 8: no
