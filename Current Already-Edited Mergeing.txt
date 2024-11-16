@@ -2,7 +2,7 @@ begin working to remove the ones already removed
 file 1: yes
 file 2: yes
 file 3: yes
-file 4: no
+file 4: yes
 file 5: no
 file 6: no
 file 7: no
