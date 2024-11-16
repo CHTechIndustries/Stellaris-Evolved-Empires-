@@ -1,3 +1,4 @@
 All empires are divided into subfolders, no other change
 moved in ones for removeing empires
-transfered all completed ones to the prescripted empires folder
+add in the files for older previous versions
+move said files to a seperate folder
