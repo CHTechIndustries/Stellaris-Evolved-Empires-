@@ -6,6 +6,6 @@ file 4: yes
 file 5: yes
 file 6: yes
 file 7: yes
-file 8: no
+file 8: yes
 file 9: no
 file 10: no
