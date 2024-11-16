@@ -1,0 +1,17 @@
+Thanks to MuraAzur (Workshop: https://steamcommunity.com/id/MuraAzur/myworkshopfiles/?appid=281990 )
+
+Without their mod No Default Empires ( https://steamcommunity.com/sharedfiles/filedetails/?id=2904177952&tscn=1731779650 ), I never could have remeved all the default empires.
+While most of it is obvious in hindsight, and I could have done using other sources, there was one odd caveot that I never would have seen. If it wasn't for their mod, I would have missed it!
+Technically I did copy and paste their code, but to be fair there is only 1 way to do this, so... either way, I did ask them, and if needed will remove it
+
+Anyways, the reason it's especially helpful is:(I'll quote the readme)
+
+"The mod works in a very simple way, that is emptying the contents of the files within the prescripted_countries folder.
+
+There are two exceptions to this, one being default.txt, and the other being 00_top_countries.txt, as for default.txt it doesn't need touched, all that does is determine the default selections when creating a new custom empire, it doesn't add any default ones.
+
+The other file however cannot be emptied, I'm not sure why but it causes consistent crashes. The two empires within, the United Nations of Earth and the Commonwealth of Man, are set to only appear if the Humanoids Species Pack is *NOT* owned or enabled, as seen by the line 'playable = has_not_humanoids'. However by changing that line to be 'playable = no', I disable it regardless. Everything after the hashtag can be ignored, it's just a comment there by default.
+
+*Also, the Plantoids, Lithoids, and Necroids files are no longer used in current game versions, but were in older ones, so I left them in to keep the mod compatible with older versions. Currently, they're all included in the 92_species_packs_prescripted_countries file, along with the other species packs of course.*"
+
+Decided to remove the italizied part, and just say it's incompatible with previous versions. I mean, it probally is anyways...
