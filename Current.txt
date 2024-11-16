@@ -19,3 +19,4 @@ moved previous versions
 prepared for merge
 remove evolved
 remove vanilla
+remove files designed for back compat with older versions
